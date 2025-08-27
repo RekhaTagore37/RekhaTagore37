@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tagore</h1>
 <h3 align="center">Bridging Data and Decision with Analytical Skills</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently  **>Bridging Data and Decision with Analytical Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RekhaTagore37](https://github.com/RekhaTagore37)
 
