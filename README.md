@@ -99,6 +99,26 @@ Output Requirements:
 
 Style: Formal, analytical, neutral, and professional.
 
+
+ROUND 2
+
+Futuristic Sustainable City :
+A breathtaking futuristic sustainable city where advanced AI technology and nature coexist in perfect harmony, featuring solar-powered skyscrapers, vertical gardens, green rooftops, transparent sky bridges, autonomous electric vehicles, clean energy grids, wind turbines, floating parks, crystal-clear rivers, ultra-modern eco-architecture, bright natural lighting, cinematic wide-angle view, hyper-detailed, ultra-realistic, 8K resolution, concept art, global illumination, masterpiece, futuristic utopia
+
+ancient civilization reimagined:
+An ancient civilization reimagined with futuristic technology, featuring grand stone temples integrated with glowing holographic displays, AI-powered artifacts, levitating platforms, robotic guardians, neon-lit hieroglyphs, ancient architecture fused with cyberpunk elements, dramatic sunset lighting, ultra-detailed textures, cinematic fantasy realism, 8K, epic scale, ultra-high resolution, concept art, masterpiece
+
+Autonomous Transportation World:
+A fully autonomous transportation world where AI controls all mobility systems, featuring self-driving electric cars, flying taxis, hyperloop trains, autonomous cargo drones, smart traffic grids, glowing data networks, futuristic highways in the sky, ultra-modern megacity, night cyberpunk lighting, hyper-detailed, cinematic wide-angle shot, ultra-realistic, 8K resolution, sci-fi concept art, masterpiece
+
+Ai governed vitual metaverse:
+A vast AI-governed virtual metaverse society with digital citizens, holographic skyscrapers, glowing data streams, floating islands, immersive VR environments, futuristic avatars, intelligent system control centers, neon cyber grids, surreal sci-fi atmosphere, cinematic lighting, ultra-detailed, hyper-realistic, 8K resolution, futuristic digital utopia, masterpiece, concept art
+
+Nature–Technology Symbiosis:
+A stunning world where advanced technology enhances natural ecosystems, featuring bioluminescent forests, AI-powered tree systems, robotic pollinators, crystal-clear waterfalls, floating eco-platforms, glowing plants, futuristic bio-architecture, peaceful harmony between machines and wildlife, magical realism, ultra-detailed, cinematic lighting, 8K resolution, fantasy sci-fi concept art, masterpiece
+
+
+
 <!--
 **RekhaTagore37/RekhaTagore37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
